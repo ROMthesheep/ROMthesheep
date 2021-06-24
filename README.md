@@ -1,10 +1,8 @@
 <p align="center">
   <a name="top" href="">
-     <img alt="dotfiles@owl4ce" style="border-radius: %;" height="60%" width="100%" src="https://i.imgur.com/W3RuFIh.jpg"/>
+     <img alt="dotfiles@owl4ce" style="border-radius: %;" height="60%" width="100%" src="https://imgur.com/HceuEgP.jpg"/>
   </a>
 </p>
-
-blablablabla
 <!--
 **ROMthesheep/ROMthesheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
