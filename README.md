@@ -3,9 +3,7 @@
 
   <summary>
       <p align="center">
-  <a name="top" href="">
      <img alt="dotfiles@owl4ce" style="border-radius: %;" height="60%" width="100%" src="https://imgur.com/HceuEgP.jpg"/>
-  </a>
 </p>
     <h2> Hola! Clickame! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h2></summary>
 
