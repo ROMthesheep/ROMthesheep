@@ -9,7 +9,7 @@
 
 <img alt="" width="40%" align="right" src="https://i.imgur.com/IssylZY.png">
 
-Ey, soy Rom, desarrollador principalmente autodidacta de movilidad y front end, me encanta cacharrear y crear pequeñas chorradas que me alegran la vida. Si se me ocurre alguna estupidez y si es graciosa la llevaré a cabo.
+Ey, soy Rom, desarrollador principalmente autodidacta de movilidad y frontend, me encanta cacharrear y crear pequeñas chorradas que me alegran la vida. Si se me ocurre alguna estupidez y si es graciosa la llevaré a cabo.
 
 Me encantan los videojuegos, especialmente los RPGS y MMOs, actualmente vivo en [FFXIV](https://na.finalfantasyxiv.com/lodestone/character/17702383/).
 
