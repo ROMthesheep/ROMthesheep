@@ -1,5 +1,5 @@
 <p align="center">
-  <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
+  <a name="top" href="">
      <img alt="dotfiles@owl4ce" style="border-radius: %;" height="60%" width="100%" src="https://i.imgur.com/W3RuFIh.jpg"/>
   </a>
 </p>
