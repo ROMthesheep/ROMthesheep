@@ -11,9 +11,9 @@
 
 Ey, soy Rom, desarrollador principalmente autodidacta de movilidad y frontend, me encanta cacharrear y crear pequeñas chorradas que me alegran la vida. Si se me ocurre alguna estupidez y si es graciosa la llevaré a cabo.
 
-Me encantan los videojuegos, especialmente los RPGS y MMOs, actualmente vivo en [FFXIV](https://na.finalfantasyxiv.com/lodestone/character/17702383/).
+Me encantan los videojuegos, especialmente los RPGS y MMOs, actualmente dedico mi tiempo libre casi exclusivamente [FFXIV](https://na.finalfantasyxiv.com/lodestone/character/17702383/).
 
-Me considero modder, soy un entusiasta de los teclados mecánicos y la electrónica digital, si puedo hackear/moddear/customizar algo que aprecio lo haré.
+Me considero modder, soy un entusiasta de los teclados mecánicos y la electrónica digital, si puedo hackear/moddear/customizar algo que aprecio sin destruirlo por el camino lo haré.
 
 Muchas veces he intentado desarrollar videojuegos pero la cantidad de trabajo, la cantidad de ideas que se se vuelven malas ideas con semanas de trabajo encima y mi total imposibilidad de no dejar todo perfecto acaba matando los proyectos.
 
