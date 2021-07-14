@@ -15,7 +15,7 @@ Muchas veces he intentado desarrollar videojuegos pero la cantidad de trabajo, l
 
 Trabajo a alto nivel en Adobe Photoshop (usuario desde cs3), lightroom y premiere, aunque estoy transicionando a Davinci resolve.
 
-Actualmente trabajando en desarrollo iOS
+Actualmente trabajando en desarrollo iOS para Viewnext
 
 ## Tool belt 🛠️
   
