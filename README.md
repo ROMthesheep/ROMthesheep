@@ -7,14 +7,6 @@
 
 Ey, soy Rom, desarrollador principalmente autodidacta de movilidad y frontend, me encanta cacharrear y crear pequeñas chorradas que me alegran la vida. Si se me ocurre alguna estupidez y si es graciosa la llevaré a cabo.
 
-Me encantan los videojuegos, especialmente los RPGS y MMOs, actualmente dedico mi tiempo libre casi exclusivamente a [FFXIV](https://na.finalfantasyxiv.com/lodestone/character/17702383/).
-
-Me considero modder, soy un entusiasta de los teclados mecánicos y la electrónica digital, si puedo hackear/moddear/customizar algo que aprecio sin destruirlo por el camino lo haré.
-
-Muchas veces he intentado desarrollar videojuegos pero la cantidad de trabajo, la cantidad de ideas que se se vuelven malas ideas con semanas de trabajo encima y mi total imposibilidad de no dejar todo perfecto acaba matando los proyectos.
-
-Trabajo a alto nivel en Adobe Photoshop (usuario desde cs3), lightroom y premiere, aunque estoy transicionando a Davinci resolve.
-
 Actualmente trabajando en desarrollo iOS para Viewnext
 
 ## Tool belt 🛠️
@@ -37,10 +29,7 @@ Para contactarme la forma más rapida y directa es mandandome MD por mi twitter:
   <img width="30%" alt="Twitter" src="https://img.shields.io/badge/@Romthesheep-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
   
-  
-Para proyectos y demás proposiciones de negocios os podeis dirigir a mi correo electrónico:
-  
-+ romthesheep@gmail.com
+ 
   
 
  ## Mis estadísticas de Github 📈
