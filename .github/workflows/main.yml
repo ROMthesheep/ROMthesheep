@@ -19,3 +19,4 @@ jobs:
           LOCALE: "en"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "True"
+          SYMBOL_VERSION: 2
