@@ -132,7 +132,8 @@ SCSS                     1 repo              █░░░░░░░░░░�
 <details>
 <summary>To know me more <img src="https://emojis.slackmojis.com/emojis/images/1665051119/61583/vibe-rabbit.gif?1665051119" width="20"/></summary>
 
-
+## Recently reading 📖
+{ gist 922787184666ca94b1f5e5a683c846fd %}
 
 ## Recently listening to 🎶
 <p align="center">
