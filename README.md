@@ -12,7 +12,8 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
     age: Int = actualYear - 1996
     workingAt: String = "Globant"
     interests: [Hobby] = [
-      .videogame,
+      .videogames,
+      .photography,
       .books,
       .manga,
       .anime,
@@ -34,7 +35,7 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
       "Firebase",
       "web scrapping",
       "Data analysis with pandas/scipy",
-      ""
+      "Photoshop"
     ]
   }
 
