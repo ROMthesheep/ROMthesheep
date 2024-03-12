@@ -20,3 +20,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "True"
           SYMBOL_VERSION: 2
+          SHOW_PROJECTS: "False"
