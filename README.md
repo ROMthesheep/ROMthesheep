@@ -42,6 +42,9 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
   }
 }
 ```
+<details>
+<summary>My Git Stats <img src="https://emojis.slackmojis.com/emojis/images/1666851939/62008/party-github.gif?1666851939" width="30"/></summary>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2025%20mins-blue)
 
@@ -124,3 +127,4 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
  Last Updated on 12/03/2024 16:16:46 UTC
 <!--END_SECTION:waka-->
+</details>
