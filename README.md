@@ -43,7 +43,7 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
 }
 ```
 <details>
-<summary>My Git Stats <img src="https://emojis.slackmojis.com/emojis/images/1666851939/62008/party-github.gif?1666851939" width="30"/></summary>
+<summary>My Git Stats <img src="https://emojis.slackmojis.com/emojis/images/1666851939/62008/party-github.gif?1666851939" width="20"/></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2025%20mins-blue)
@@ -127,4 +127,18 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
  Last Updated on 12/03/2024 16:16:46 UTC
 <!--END_SECTION:waka-->
+</details>
+
+
+<details>
+<summary>To know me more <img src="https://emojis.slackmojis.com/emojis/images/1665051119/61583/vibe-rabbit.gif?1665051119" width="20"/></summary>
+
+
+
+## Recently listening to 🎶
+<p align="center">
+  <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=tka9mon1k1ur6olrq8c04yvij&redirect=true">
+    <img width="80%" alt="Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=z7hh6byyki0ordc7p4o6oe2f0&cover_image=true&theme=natemoo-re"/>
+   </a>
+</p>
 </details>
