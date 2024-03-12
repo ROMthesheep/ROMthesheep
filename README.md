@@ -139,9 +139,6 @@ SCSS                     1 repo              █░░░░░░░░░░�
   <img width="20%" alt="Twitter" src="https://img.shields.io/badge/@Romthesheep-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
-## Recently reading 📖
-{% gist 922787184666ca94b1f5e5a683c846fd %}
-
 ## Recently listening to 🎶
 <p align="center">
   <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=tka9mon1k1ur6olrq8c04yvij&redirect=true">
