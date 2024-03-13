@@ -1,5 +1,9 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643515157/11711/kirby_vibing.gif?1643515157" width="40"/> Hi traveler! Im Rom!</h2>
-<img align='right' src="https://media4.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif?cid=ecf05e47pjica08qakz9bdfip5dn8haopylf92ws4el8319m&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="210">
+<h2><img src="https://media4.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif?cid=ecf05e47pjica08qakz9bdfip5dn8haopylf92ws4el8319m&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="40"/> Hi traveler! Im Rom!</h2>
+<img align='right' src="https://emojis.slackmojis.com/emojis/images/1643515157/11711/kirby_vibing.gif?1643515157" width="210">
+
+<!--anime https://media3.giphy.com/media/xonOzxf2M8hNu/giphy.gif?cid=ecf05e475yfscufp63kv0uqtpcak81z7fl2wul0o1hz0g2ws&ep=v1_gifs_related&rid=giphy.gif&ct=g-->
+<!--kirby vibe https://emojis.slackmojis.com/emojis/images/1643515157/11711/kirby_vibing.gif?1643515157-->
+<!-- pollito https://media0.giphy.com/media/JWybLzXs7Hn0JKhSji/giphy.gif?cid=ecf05e47pjica08qakz9bdfip5dn8haopylf92ws4el8319m&ep=v1_gifs_related&rid=giphy.gif&ct=g -->
 
 ```swift
 class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigner {
