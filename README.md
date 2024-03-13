@@ -131,7 +131,7 @@ SCSS                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <summary>To know me more <img src="https://emojis.slackmojis.com/emojis/images/1665051119/61583/vibe-rabbit.gif?1665051119" width="20"/></summary>
 
 ## My dumpster 🗑️
-
+#### Feel free to send me a dm with inquiries 
 <a href="https://twitter.com/ROMthesheep">
   <img width="20%" alt="Twitter" src="https://img.shields.io/badge/@Romthesheep-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
