@@ -26,8 +26,6 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
       .java,
       .kotlin,
       .typescript,
-      .html,
-      .angular,
       .sass
     ]
     languageSpoken: [String] = ['es_SP', 'en_UK', 'it_IT']
@@ -35,7 +33,9 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
       "Firebase",
       "web scrapping",
       "Data analysis with pandas/scipy",
-      "Photoshop"
+      "Photoshop",
+      "HTML",
+      "Angular"
     ]
   }
 
