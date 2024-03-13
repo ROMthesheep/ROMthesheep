@@ -32,7 +32,7 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
       .typescript,
       .sass
     ]
-    languageSpoken: [String] = ['es_SP', 'en_UK', 'it_IT']
+    languageSpoken: [String] = ['es_ES', 'en_GB', 'it_IT']
     misc: [String] = [
       "Firebase",
       "web scrapping",
