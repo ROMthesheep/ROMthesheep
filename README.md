@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643515157/11711/kirby_vibing.gif?1643515157" width="40"/> Hi traveler! Im Rom!</h2>
-<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGMzeWoxdjYwenp0bGNqaDhxdDlmaGdkODYwM2dydmxkY3lvZjFjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
+<img align='right' src="https://media4.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif?cid=ecf05e47pjica08qakz9bdfip5dn8haopylf92ws4el8319m&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="210">
 
 ```swift
 class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigner {
