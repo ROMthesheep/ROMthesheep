@@ -29,8 +29,7 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
       .python,
       .java,
       .kotlin,
-      .typescript,
-      .sass
+      .typescript
     ]
     languageSpoken: [String] = ['es_ES', 'en_GB', 'it_IT']
     misc: [String] = [
