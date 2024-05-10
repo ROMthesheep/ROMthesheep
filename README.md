@@ -38,7 +38,8 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
       "Data analysis with pandas/scipy",
       "Photoshop",
       "HTML",
-      "Angular"
+      "Angular",
+      "esolangs",
     ]
   }
 
