@@ -60,6 +60,8 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
 
 > 📦 420.6 kB Used in GitHub's Storage 
  > 
+> 🏆 100 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -118,7 +120,7 @@ SCSS                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 27/05/2024 18:40:19 UTC
+ Last Updated on 28/05/2024 18:41:21 UTC
 <!--END_SECTION:waka-->
 </details>
 
