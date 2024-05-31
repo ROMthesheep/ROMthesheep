@@ -60,7 +60,7 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
 
 > 📦 422.6 kB Used in GitHub's Storage 
  > 
-> 🏆 115 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -95,14 +95,13 @@ Sunday                   33 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 57 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   98.61 % 
-Other                    0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.39 % 
+Swift                    0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔥 Editors: 
-VS Code                  58 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-Mac                      58 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +117,7 @@ SCSS                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 30/05/2024 18:41:56 UTC
+ Last Updated on 31/05/2024 18:40:59 UTC
 <!--END_SECTION:waka-->
 </details>
 
