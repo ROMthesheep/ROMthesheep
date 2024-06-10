@@ -31,7 +31,7 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
       .kotlin,
       .typescript
     ]
-    languageSpoken: [String] = ['es_ES', 'en_GB', 'it_IT']
+    languagesSpoken: [String] = ['es_ES', 'en_GB', 'it_IT']
     misc: [String] = [
       "Firebase",
       "web scrapping",
