@@ -52,15 +52,13 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
 <summary>My Git Stats <img src="https://emojis.slackmojis.com/emojis/images/1660415435/60800/eyes.gif?1660415435" width="20"/></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 502.1 kB Used in GitHub's Storage 
- > 
-> 🏆 154 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -126,7 +124,7 @@ Swift                    4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 28/06/2024 18:41:52 UTC
+ Last Updated on 29/06/2024 18:40:28 UTC
 <!--END_SECTION:waka-->
 </details>
 
