@@ -29,7 +29,8 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
       .python,
       .java,
       .kotlin,
-      .typescript
+      .typescript,
+      .GDScript
     ]
     languagesSpoken: [String] = ['es_ES', 'en_GB', 'it_IT']
     misc: [String] = [
@@ -40,6 +41,7 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
       "HTML",
       "Angular",
       "esolangs",
+      "Godot"
     ]
   }
 
@@ -131,6 +133,9 @@ ShaderLab                1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <summary>To know me more <img src="https://emojis.slackmojis.com/emojis/images/1665051119/61583/vibe-rabbit.gif?1665051119" width="20"/></summary>
 
 ## My dumpster 🗑️
+### I make games (and rarely finish them) here
+[My itchio](https://romthesheep.itch.io/)
+
 #### Feel free to send me a dm with inquiries 
 <a href="https://twitter.com/ROMthesheep">
   <img width="20%" alt="Twitter" src="https://img.shields.io/badge/@Romthesheep-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
