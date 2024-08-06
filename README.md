@@ -14,7 +14,6 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
       return
     }
     age: Int = actualYear - 1996
-    workingAt: String = "Globant"
     interests: [Hobby] = [
       .videogames,
       .photography,
