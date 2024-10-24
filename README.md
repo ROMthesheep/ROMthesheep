@@ -53,13 +53,15 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigne
 <summary>My Git Stats <img src="https://emojis.slackmojis.com/emojis/images/1660415435/60800/eyes.gif?1660415435" width="20"/></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 624.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 291 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -122,7 +124,7 @@ ShaderLab                1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 23/10/2024 18:46:52 UTC
+ Last Updated on 24/10/2024 18:47:28 UTC
 <!--END_SECTION:waka-->
 </details>
 
