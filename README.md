@@ -6,7 +6,7 @@
 <!-- pollito https://media0.giphy.com/media/JWybLzXs7Hn0JKhSji/giphy.gif?cid=ecf05e47pjica08qakz9bdfip5dn8haopylf92ws4el8319m&ep=v1_gifs_related&rid=giphy.gif&ct=g -->
 
 ```swift
-class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigner {
+class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GraphicDesigner, GameDev {
 
   init() {
     name: String = "Rom the sheep"
