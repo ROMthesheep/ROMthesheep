@@ -120,7 +120,7 @@ ShaderLab                1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 </details>
 
-
+<!--
 <details>
 <summary>To know me more <img src="https://emojis.slackmojis.com/emojis/images/1665051119/61583/vibe-rabbit.gif?1665051119" width="20"/></summary>
 
@@ -140,3 +140,4 @@ ShaderLab                1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
    </a>
 </p>
 </details>
+-->
