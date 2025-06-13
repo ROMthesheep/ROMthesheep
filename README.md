@@ -53,6 +53,8 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GameDev {
 <summary>My Git Stats <img src="https://emojis.slackmojis.com/emojis/images/1660415435/60800/eyes.gif?1660415435" width="20"/></summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2047%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -92,14 +94,13 @@ Sunday                   68 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 hr 59 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   90.94 % 
-Swift                    11 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.06 % 
+Other                    20 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  20 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 10 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Mac                      20 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in GDScript** 
@@ -115,7 +116,7 @@ ShaderLab                1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 12/06/2025 18:50:45 UTC
+ Last Updated on 13/06/2025 18:50:49 UTC
 <!--END_SECTION:waka-->
 </details>
 
