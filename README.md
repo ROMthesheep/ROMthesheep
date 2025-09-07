@@ -61,8 +61,6 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GameDev {
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 98 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 49 Public Repositories 
@@ -118,7 +116,7 @@ ShaderLab                1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 06/09/2025 18:43:32 UTC
+ Last Updated on 07/09/2025 18:43:58 UTC
 <!--END_SECTION:waka-->
 </details>
 
