@@ -36,7 +36,7 @@ class RomTheSheep: IosDeveloper, Spaniard, Italian, Maker, Moder, GameDev {
       "Firebase",
       "web scrapping",
       "Data analysis with pandas/scipy",
-      "Photoshop",
+      "Affinity", // fck adobe
       "HTML",
       "Angular",
       "esolangs",
